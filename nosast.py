@@ -2070,7 +2070,6 @@ class Shot:
 #  SECTION 6 - driver
 # ===========================================================================
 GITHUB = "https://github.com/d1n3sh-0x3/"
-LINKEDIN = "https://www.linkedin.com/in/dinesh-goud"
 
 TAGLINES = [
     "NO-SAST :: static analysis, screenshotted",
